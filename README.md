@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojcn20&label=Profile%20views&color=0e75b6&style=flat" alt="manojcn20" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.manojcn-portfolio.online](https://manojcn-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My_Portfolio](https://manojcn-portfolio.netlify.app/)
 
 - 📫 How to reach me **manojcn0302@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/manoj-c-n-b50273198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/manoj-c-n-b50273198" height="30" width="40" /></a>
+<a href="https://manojcn-portfolio.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/manoj-c-n-b50273198" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
