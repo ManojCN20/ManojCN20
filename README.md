@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manojcn20&label=Profile%20views&color=0e75b6&style=flat" alt="manojcn20" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.manojcn-portfolio.online](www.manojcn-portfolio.online)
+- 👨‍💻 All of my projects are available at [www.manojcn-portfolio.online](https://manojcn-portfolio.netlify.app/)
 
 - 📫 How to reach me **manojcn0302@gmail.com**
 
