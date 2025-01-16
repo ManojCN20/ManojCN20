@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/manoj-c-n-b50273198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/manoj-c-n-b50273198" height="30" width="40" /></a>
-<a href="https://manojcn-portfolio.netlify.app/" target="blank"><img align="center" src="https://iconscout.com/contributors/iyikon" alt="linkedin.com/in/manoj-c-n-b50273198" height="30" width="40" /></a>
+<a href="https://manojcn-portfolio.netlify.app/" target="blank"><img align="center" src="<a href="https://iconscout.com/icons/planet" class="text-underline font-size-sm" target="_blank">Planet</a> by <a href="https://iconscout.com/contributors/iyikon" class="text-underline font-size-sm">Iyikon ...</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a>" alt="My_Website" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
